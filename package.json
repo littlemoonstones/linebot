@@ -1,0 +1,6 @@
+{
+    "name": "line_bot",
+    "scripts": {
+        "start": "node main.js"
+    }
+}
